@@ -21,6 +21,7 @@
 
 > [고객정보관리시스템 CRUD] (https://github.com/rivera00255/mini-project-frontend)   
 
+> [고객정보관리시스템 CRUD] (https://github.com/rivera00255/mini-project-backend)   
 
 <!--
 
