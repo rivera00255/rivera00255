@@ -13,6 +13,15 @@
 ###### 한국표준협회 클라우드 기반 개발자 양성과정에 참여 중입니다.
 
 
+> [쇼핑몰 - frontend project] (https://github.com/rivera00255/project-shop)   
+
+> [SNS - backend project] (https://github.com/rivera00255/project-sns)   
+
+> [open api 활용 영화 정보 서비스] (https://github.com/rivera00255/movie-app)   
+
+> [고객정보관리시스템 CRUD] (https://github.com/rivera00255/mini-project-frontend)   
+
+
 <!--
 
 ***
