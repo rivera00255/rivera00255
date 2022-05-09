@@ -10,18 +10,30 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-###### 한국표준협회 클라우드 기반 개발자 양성과정에 참여 중입니다.
+
+#### 2021.11 ~ 2022.04 한국표준협회 클라우드 기반 IT/SW 개발자 양성과정 수료
+* ##### IT/SW 서비스 구축을 위한 프론트엔드 프로그래밍   
+   * ###### HTML, CSS, Javascript, React 활용 및 미니 프로젝트 진행   
+* ###### IT/SW 서비스 구축을 위한 백엔드 프로그래밍   
+   * ###### Java, SpringBoot, JPA와 MySQL DB를 이용한 미니 프로젝트 진행   
+* ##### 클라우드 기반 IT/SW 서비스 배포   
+   * ###### 도커, AWS, 젠킨스를 이용한 서비스 빌드 및 배포와 CI, CD   
 
 
-> [쇼핑몰 - frontend project] (https://github.com/rivera00255/project-shop)   
+##### GitHub Repository   
 
-> [SNS - backend project] (https://github.com/rivera00255/project-sns)   
+   > [습관형성 챌린지 트래커 →](https://github.com/rivera00255/lighthouse-project)   
 
-> [open api 활용 영화 정보 서비스] (https://github.com/rivera00255/movie-app)   
+   > [고객정보관리시스템 CRUD front-end →](https://github.com/rivera00255/mini-project-frontend)   
 
-> [고객정보관리시스템 CRUD] (https://github.com/rivera00255/mini-project-frontend)   
+   > [고객정보관리시스템 CRUD back-end →](https://github.com/rivera00255/mini-project-backend)   
 
-> [고객정보관리시스템 CRUD] (https://github.com/rivera00255/mini-project-backend)   
+   > [open api 활용 영화 정보 서비스 →](https://github.com/rivera00255/movie-app)   
+
+   > [SNS - backend project →](https://github.com/rivera00255/project-sns)   
+
+   > [쇼핑몰 - frontend project →](https://github.com/rivera00255/project-shop)   
+
 
 <!--
 
