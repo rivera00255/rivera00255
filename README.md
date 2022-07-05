@@ -46,6 +46,8 @@
    > [intersection observer를 활용한 interactive scrolling →](https://github.com/rivera00255/bakery-festival)   
 
    > [Firebase 기반 social-media →](https://github.com/rivera00255/doodle)   
+   
+   > [Typescript를 사용한 레시피 검색 서비스 →](https://rivera00255.github.io/the-meal)   
 
 
 
