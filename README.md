@@ -47,7 +47,7 @@
 
    > [Firebase 기반 social-media →](https://github.com/rivera00255/doodle)   
    
-   > [Typescript를 사용한 레시피 검색 서비스 →](https://rivera00255.github.io/the-meal)   
+   > [Typescript를 사용한 레시피 검색 서비스 →](https://github.com/rivera00255/the-meal)   
 
 
 
