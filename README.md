@@ -41,6 +41,8 @@
 
   * ##### 개인 프로젝트 및 연습 (최신순 내림차순 정렬)   
   
+   > [화장품 판매점 fake store →](https://github.com/rivera00255/makeup)   
+  
    > [Typescript + emotion 공동구매 →](https://github.com/rivera00255/group-buying)   
    
    > [Typescript를 사용한 레시피 검색 서비스 →](https://github.com/rivera00255/the-meal)   
