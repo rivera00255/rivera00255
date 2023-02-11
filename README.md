@@ -28,10 +28,6 @@
   * ##### 한국표준협회 팀 프로젝트   
 
    > [습관형성 챌린지 트래커 →](https://github.com/rivera00255/lighthouse-project)   
-   
-   > [SNS - backend project →](https://github.com/rivera00255/project-sns)   
-
-   > [쇼핑몰 - frontend project →](https://github.com/rivera00255/project-shop)   
 
   * ##### 한국표준협회 개인 프로젝트 
 
@@ -40,6 +36,8 @@
    > [고객정보관리시스템 CRUD back-end →](https://github.com/rivera00255/mini-project-backend)   
 
   * ##### 개인 프로젝트 및 연습 (최신순 내림차순 정렬)   
+
+   > [일기장 Daily Journal →](https://github.com/rivera00255/daily-journal)   
   
    > [화장품 판매점 fake store →](https://github.com/rivera00255/makeup)   
   
@@ -48,10 +46,6 @@
    > [Typescript를 사용한 레시피 검색 서비스 →](https://github.com/rivera00255/the-meal)   
    
    > [Firebase 기반 social-media →](https://github.com/rivera00255/doodle)   
-   
-   > [intersection observer를 활용한 interactive scrolling →](https://github.com/rivera00255/bakery-festival)   
-   
-   > [redux 활용 쇼핑 스토어 →](https://github.com/rivera00255/ice-cream-shop)   
 
    > [open api 활용 영화 정보 서비스 →](https://github.com/rivera00255/movie-app)   
    
