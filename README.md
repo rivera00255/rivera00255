@@ -1,53 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there!&fontSize=90)
 
-## FE Developer
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](http://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&color=40AEF0)
-![Redux](http://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
-
-#### 2021.11 ~ 2022.04 한국표준협회 클라우드 기반 IT/SW 개발자 양성과정 수료
-* ##### IT/SW 서비스 구축을 위한 프론트엔드 프로그래밍   
-   * ###### HTML, CSS, Javascript, React 활용 및 미니 프로젝트 진행   
-* ###### IT/SW 서비스 구축을 위한 백엔드 프로그래밍   
-   * ###### Java, SpringBoot, JPA와 MySQL DB를 이용한 미니 프로젝트 진행   
-* ##### 클라우드 기반 IT/SW 서비스 배포   
-   * ###### 도커, AWS, 젠킨스를 이용한 서비스 빌드 및 배포와 CI, CD   
+#### 한국표준협회 클라우드 기반 IT/SW 개발자 양성과정 수료
 
 ***
 
 #### GitHub Repository   
 
-  * ##### 한국표준협회 팀 프로젝트   
+  * ##### 팀 프로젝트   
 
    > [습관형성 챌린지 트래커 →](https://github.com/rivera00255/lighthouse-project)   
 
-  * ##### 한국표준협회 개인 프로젝트 
+  * ##### 개인 프로젝트 및 연습 (최신순 내림차순 정렬)
 
-   > [고객정보관리시스템 CRUD front-end →](https://github.com/rivera00255/mini-project-frontend)   
-
-   > [고객정보관리시스템 CRUD back-end →](https://github.com/rivera00255/mini-project-backend)   
-
-  * ##### 개인 프로젝트 및 연습 (최신순 내림차순 정렬)   
-
-   > [일기장 Daily Journal →](https://github.com/rivera00255/daily-journal)   
+  > [가계부 →](https://github.com/rivera00255/account-book)   
   
-   > [화장품 판매점 fake store →](https://github.com/rivera00255/makeup)   
-  
-   > [Typescript + emotion 공동구매 →](https://github.com/rivera00255/group-buying)   
-   
-   > [Typescript를 사용한 레시피 검색 서비스 →](https://github.com/rivera00255/the-meal)   
-   
-   > [Firebase 기반 social-media →](https://github.com/rivera00255/doodle)   
+  > [북클럽 →](https://github.com/rivera00255/book-club)   
 
-   > [open api 활용 영화 정보 서비스 →](https://github.com/rivera00255/movie-app)   
+  > [일기장 →](https://github.com/rivera00255/daily-journal)   
+  
+  > [Shop →](https://github.com/rivera00255/makeup)   
+  
+  > [공동구매 →](https://github.com/rivera00255/group-buying)   
    
 
 <!--
